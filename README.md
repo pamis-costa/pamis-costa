@@ -2,7 +2,7 @@
 <p>
 👋 Olá, meu nome é Pamela, tenho 24 anos e vivo em Belém, Pará, Brasil.
 </p>
-<p>
+<p align="justify">
 💻 Atualmente estou em transição para a área de TI mas estou indecisa entre seguir carreira como analista de dados ou programadora.
 No momento, estou cursando um técnico em Desenvolvimento de Sistemas na Escola Técnica Fundação FAT e participando ativamente do programa Back-End da prograMaria,
 além de ter recentemente ingressado na turma da Talento Cloud Pro.
