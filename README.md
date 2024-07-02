@@ -1,4 +1,4 @@
-<h1 align="center"> Sobre Mim</h1>
+<h1> Sobre Mim</h1>
 <p>
 👋 Olá, meu nome é Pamela, tenho 24 anos e vivo em Belém, Pará, Brasil.
 </p>
@@ -12,7 +12,7 @@ além de ter recentemente ingressado na turma da Talento Cloud Pro.
 - [x] Desenvolvimento Web
   - [x] `HTML`
   - [x] `CSS`
-  - [x] `Javascript
+  - [x] `Javascript`
 ---
 
 - [x] Linguagem de programação
