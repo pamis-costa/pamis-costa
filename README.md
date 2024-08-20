@@ -1,4 +1,4 @@
-<h2> Sobre_mim</h2>
+<h3> Sobre_mim</h3>
 
 <p>
 👋 Olá, meu nome é Pamela, tenho 25 anos e vivo em Belém, Pará, Brasil.
@@ -15,19 +15,18 @@
 </a>
 </div>
 
-<hr>
-<h2> Linguagens_e_ferramentas </h2>
+<h3> Linguagens_e_ferramentas </h3>
 
 <div style="display: inline_block">
   
   <img align="center" alt="Pamis-html" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >
   <img align="center" alt="Pamis-css" height="55" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >
   <img align="center" alt="Pamis-javascript" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
-  <img align="center" alt="Pamis-java" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" >
-  <img align="center" alt="Pamis-python" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
+  <img align="center" alt="Pamis-java" height="60" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" >
+  <img align="center" alt="Pamis-python" height="60" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
 </div>
 
-<h2> Você_pode_me_encontrar_aqui </h2>
+<h3> Você_pode_me_encontrar_aqui </h3>
 <div>
 <a href="https://www.linkedin.com/in/pamela-costa-20p" rel="nofollow">
   <img src="https://camo.githubusercontent.com/b5ca0d668668ff247047e3ae990f6b19ba143fe20b0b1413cf1072bdfb911182/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">)</a></p>
