@@ -27,9 +27,13 @@
 </div>
 
 <h3> Você_pode_me_encontrar_aqui </h3>
-<div>
-<a href="https://www.linkedin.com/in/pamela-costa-20p" rel="nofollow">
-  <img src="https://camo.githubusercontent.com/b5ca0d668668ff247047e3ae990f6b19ba143fe20b0b1413cf1072bdfb911182/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://skillicons.dev/icons?i=linkedin" style="max-width: 100%;">)</a></p>
-</a>
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/pamela-costa-20p" rel="nofollow">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="max-width: 100%;">
+  </a>
+  <a href="https://discord.com/channels/@thebrinco" target="_blank" rel="noopener noreferrer nofollow">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
