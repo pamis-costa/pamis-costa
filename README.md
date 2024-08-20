@@ -1,4 +1,4 @@
-<h2> Sobre Mim</h2>
+<h2> Sobre_mim</h2>
 
 <p>
 👋 Olá, meu nome é Pamela, tenho 25 anos e vivo em Belém, Pará, Brasil.
@@ -16,7 +16,7 @@
 </div>
 
 <hr>
-<h2> Linguagens e ferramentas </h2>
+<h2> Linguagens_e_ferramentas </h2>
 
 <div style="display: inline_block">
   
