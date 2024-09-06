@@ -11,7 +11,8 @@
 - 🎓 *Pós-graduação concluída em Bioinformática.*
 
 <div>
-<a href="https://github.com/pamis-costa/convoychat">
+<h3>Status</h3>
+  <a href="https://github.com/pamis-costa/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=pamis-costa&show_icons=true&theme=dracula"/>
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pamis-costa&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
