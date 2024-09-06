@@ -15,16 +15,29 @@
 </a>
 </div>
 
-<h3> Linguagens_e_ferramentas </h3>
+<h3> Aplicações </h3>
 
 <div style="display: inline_block">
   
   <img align="center" alt="Pamis-html" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" >
   <img align="center" alt="Pamis-css" height="55" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" >
+  <img align="center" alt="Pamis-python" height="60" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
+  <img align="center" alt="Pamis-git" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/sass/sass.png" >
+</div>
+
+<h3> Estudando </h3>
+
+<div style="display: inline_block">
   <img align="center" alt="Pamis-javascript" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" >
   <img align="center" alt="Pamis-java" height="60" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" >
-  <img align="center" alt="Pamis-python" height="60" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" >
 </div>
+
+<h3> DevOps </h3>
+<div style="display: inline_block">
+  <img align="center" alt="Pamis-git" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" >
+  <img align="center" alt="Pamis-git" height="50" style="max-width: 100%;" src ="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png" >
+</div>
+
 
 <h3> Você_pode_me_encontrar_aqui </h3>
 
