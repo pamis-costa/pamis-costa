@@ -24,8 +24,8 @@
   
   <img align="center" alt="logo html" height="50" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=html" >
   <img align="center" alt="logo css" height="55" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=css" >
-  <img align="center" alt="logo python" height="60" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=py" >
   <img align="center" alt="logo sass" height="50" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=sass" >
+  <img align="center" alt="logo python" height="60" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=py" >
 </div>
 
 <h3> Estudando </h3>
