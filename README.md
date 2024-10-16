@@ -65,7 +65,3 @@
     <img align="center" height="50" style="max-width: 100%;" alt="Discord" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg">
   </a>
 </div>
-
-##
-
-<p align="center"><img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/github-contribution-grid-snake.svg"></p>
