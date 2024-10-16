@@ -8,7 +8,6 @@
 - 📚 Estudante de Gestão de TI;
 - 📖 *Cursando Técnico em Informática;*
 - 📚 *Cursando Técnico em Desenvolvimento de Sistemas;*
-- 🎓 *Pós-graduação concluída em Bioinformática.*
 
 <div>
 <h3>Status</h3>
