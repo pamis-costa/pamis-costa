@@ -32,7 +32,8 @@
 <div style="display: inline_block">
   <img align="center" alt="logo javascript" height="50" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=js" >
   <img align="center" alt="logo java" height="60" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=java" >
-  <img align="center" alt="logo java" height="60" style="max-width: 100%;" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" >
+  <img align="center" alt="android studio" height="60" style="max-width: 100%;" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" >
+  <img align="center" alt="logo php" height="60" style="max-width: 100%;" src ="https://www.svgrepo.com/show/452088/php.svg" >
   
 </div>
 
