@@ -31,9 +31,12 @@
 
 <div style="display: inline_block">
   <img align="center" alt="logo javascript" height="50" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=js" >
+  <img align="center" alt="logo react" height="50" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=react" >
   <img align="center" alt="logo java" height="60" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=java" >
-  <img align="center" alt="android studio" height="60" style="max-width: 100%;" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" >
+  <img align="center" alt="logo android studio" height="60" style="max-width: 100%;" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" >
   <img align="center" alt="logo php" height="60" style="max-width: 100%;" src ="https://www.svgrepo.com/show/452088/php.svg" >
+  <img align="center" alt="logo SQL" height="50" style="max-width: 100%;" src ="https://camo.githubusercontent.com/a8a60415abfda26e6a8f1b9a4b8b8a6e6313187bf0de899a8596759dba9e5f52/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f362f36382f4f7261636c655f53514c5f446576656c6f7065725f6c6f676f2e737667" >
+  <img align="center" alt="logo roblox studio" height="60" style="max-width: 100%;" src ="https://seeklogo.com/images/R/roblox-studio-logo-C006FB6F49-seeklogo.com.png" >
   
 </div>
 
