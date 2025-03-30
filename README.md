@@ -4,9 +4,10 @@
 
 <h3>Sobre_mim</h3>
 
-- ⚡ *Estudante de Análise e Desenvolvimento de Sistemas;*
+- 💻 *Estudante de Análise e Desenvolvimento de Sistemas;*
 - 📚 *Estudante de Gestão de TI;*
-- 📖 *Cursando Técnico em Informática;*
+- 🎓 *Estudante de Tecnologia de Informática;*
+- 🖥️ *Cursando Técnico em Informática;*
 - 📚 *Cursando Técnico em Desenvolvimento de Sistemas;*
 
 <div>
