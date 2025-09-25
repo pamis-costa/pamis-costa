@@ -69,3 +69,11 @@
     <img align="center" height="50" style="max-width: 100%;" alt="Discord" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg">
   </a>
 </div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph.svg">
+</picture>
