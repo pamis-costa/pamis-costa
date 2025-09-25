@@ -77,3 +77,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph.svg">
 </picture>
+
+---
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,js,java,react,nodejs,vscode,figma,androidstudio,discord,git,gmail,kali,linkedin,linux,mint,netlify,ps,py,robloxstudio,sass&perline=14" />
+  </a>
+</p>
