@@ -52,6 +52,14 @@
 
 ---
 
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamis-costa&theme=dark" width="75%" />
+</div>
+
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph.svg">
