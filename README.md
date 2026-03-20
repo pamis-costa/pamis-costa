@@ -1,64 +1,58 @@
 <h3>Seja bem-vindo(a) ao meu perfil Github! 👋 </h3>
 
-<p>👋 Olá, meu nome é Pamela, tenho 26 anos e vivo em Belém, Pará, Brasil.</p>
+<p align="center">
+  Olá! Meu nome é Pamela, tenho 26 anos e vivo em Belém, Pará. <br>
+  <em>Sempre em busca de aprender novas tecnologias e transformar ideias em código!</em> 🐱
+</p>
 
-<h3>Sobre_mim</h3>
+### 👩‍💻 Sobre mim
 
-- 💻 *Estudante de Análise e Desenvolvimento de Sistemas;*
-- 📚 *Estudante de Gestão de TI;*
-- 🎓 *Estudante de Tecnologia de Informática;*
-- 🖥️ *Cursando Técnico em Informática;*
-- 🖥️ *Cursando Técnico em Rede de Computadores;*
-- 📚 *Cursando Técnico em Desenvolvimento de Sistemas;*
+* 💻 Estudando **Análise e Desenvolvimento de Sistemas**, **Tecnologia da Informação** e **Gestão de TI**.
+* 🖥️ Cursando nível técnico em **Informática**, **Redes de Computadores** e **Desenvolvimento de Sistemas**.
 
-<h3> Aplicações </h3>
+### 🚀 Minhas Skills
 
+**Linguagens e Aplicações**
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=html,css,python&perline=14" />
 </div>
 
-<h3> Estudando </h3>
-
+**Estudando Atualmente**
 <div style="display: inline_block">
   <img src="https://skillicons.dev/icons?i=js,react,next,typescript,kali,linux,mint&perline=14" />
 </div>
 
-<h3> DevOps </h3>
+**DevOps e Versionamento**
 <div style="display: inline_block">
   <img align="center" alt="git" height="50" style="max-width: 100%;" src ="https://skillicons.dev/icons?i=git" >
   <img align="center" alt="github" height="50" style="max-width: 100%;" src ="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" >
 </div>
 
-<h3> Ferramentas_de_desenvolvimento </h3>
+**Ferramentas de Desenvolvimento e Design**
 <div style="display: inline_block">
   <img align="center" alt="github" height="50" style="max-width: 100%;" src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img align="center" src="https://skillicons.dev/icons?i=figma&theme=dark" />
   <img align="center" alt="github" height="50" style="max-width: 100%;" src="https://github.com/flathub/com.icons8.Lunacy/blob/master/com.icons8.Lunacy.svg" height="40" alt="lunacy logo"/>
-</div>
-
-<h3>Ferramentas_de_Design</h3>
-<div style="display: inline_block">
   <img align="center" src="https://skillicons.dev/icons?i=photoshop&theme=dark" />
   <img align="center" alt="coreldraw" height="50" style="max-width: 100%;" src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR52TpAbaqYK11VFeZzI-I3EOsAKwGRENJ9zg&s" >
 </div>
 
+### 📫 Você pode me encontrar aqui:
 
-<h3> Você_pode_me_encontrar_aqui </h3>
- <p align="center">
-    <a href="https://www.linkedin.com/in/pamela-costa-20p/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:pamelapereira321@gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
-</div>
-
----
+<p>
+  <a href="https://www.linkedin.com/in/pamela-costa-20p/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pamelapereira321@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pamis-costa&theme=dark" width="75%" />
 </div>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pamis-costa/pamis-costa/output/pacman-contribution-graph-dark.svg">
