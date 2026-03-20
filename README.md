@@ -14,7 +14,7 @@
 <h3> Aplicações </h3>
 
 <div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=html,css,sass,python&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,python&perline=14" />
 </div>
 
 <h3> Estudando </h3>
