@@ -18,8 +18,9 @@
 </div>
 
 **Estudando Atualmente**
-<div style="display: inline_block">
-  <img src="https://skillicons.dev/icons?i=js,react,next,typescript,kali,linux,mint&perline=14" />
+<div style="display: inline-block">
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,next,tailwind,nodejs,pnpm,docker,gcp,linux,mint&perline=14" />
+  <img alt="react native" height="50" style="max-width: 50%;" src="https://cdn.prod.website-files.com/62c6fbddb12bb54622241c3d/62c6fbddb12bb57fe22423d5_React_img1.png" >
 </div>
 
 **DevOps e Versionamento**
